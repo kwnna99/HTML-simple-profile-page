@@ -25,7 +25,7 @@ a:hover {
 blockquote {
   border-left: 10px solid #F17167;
   margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  padding: 20px 10px;
   quotes: "\201C""\201D";
 }
 
@@ -110,7 +110,6 @@ header .profile-image {
   width: 200px;
   height: 200px;
   border-radius: 30%;
-  padding-top:30px;
 }
 header .profile-image:hover {
   transform: rotate(0.5turn);
